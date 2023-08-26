@@ -6,4 +6,6 @@ int main(void){
     cout << "Insira seu nome: ";
     cin >> nome_usuario;
     cout << "Bom dia " << nome_usuario << endl;
+
+    return 0;
 }
