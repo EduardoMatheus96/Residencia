@@ -21,6 +21,9 @@
     "peacock.color": "#42b883",
     "files.associations": {
         "ostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "*.tcc": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp"
     }
 }
