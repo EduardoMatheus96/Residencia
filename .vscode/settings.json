@@ -22,6 +22,8 @@
     "files.associations": {
         "ostream": "cpp",
         "iomanip": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "limits": "cpp",
+        "iostream": "cpp"
     }
 }
