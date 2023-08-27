@@ -4,6 +4,7 @@
 using namespace std;
 
 int main(void) {
+
     // int i = 0;
     // char caracter = '0';
     //Letra B: 
@@ -51,7 +52,6 @@ int main(void) {
     
     // Letra C
     char a;
-
     cout << "Insira um Caracter: ";
     cin >> a;
     cout << "O valor da tabela Ascii do caracter " 
@@ -69,7 +69,6 @@ int main(void) {
     << static_cast<int>(a)
     << "\n\n"
     <<endl;
-
     
     return 0;
 }
