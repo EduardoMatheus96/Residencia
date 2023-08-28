@@ -8,6 +8,7 @@ int main(void){
 
     //Letra a
     cout << "Valor mínimo de int: " << numeric_limits<int>::min() << endl;
+    cout << "Valor maximo de int: " << numeric_limits<int>::max() << endl;
     
     //Letra b
     cout << "Maior valor de unsigned long int: " << numeric_limits<unsigned long int>::max() << endl;
